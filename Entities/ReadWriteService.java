@@ -42,7 +42,6 @@ public class ReadWriteService {
 
             File file = new File("audit.csv");
 
-            // if file doesnt exists, then create it
             if (!file.exists()) {
                 file.createNewFile();
             }

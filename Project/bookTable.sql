@@ -1,0 +1,7 @@
+CREATE TABLE `books` (
+	`name` VARCHAR(255) NOT NULL,
+	`author` VARCHAR(255) NOT NULL,
+	`pages` INT UNSIGNED NOT NULL,
+	`rate` INT UNSIGNED NOT NULL,
+	PRIMARY KEY (`name`)
+);

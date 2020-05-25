@@ -1,0 +1,10 @@
+Trei,Cezar,RO,Tu Barbat!,486,10
+Colaps,Bogdan,RO,Terra,333,10
+CurteaVeche,Dale Carnagie,USA,Secretele Succesului,283,10
+Humanitas,Cezar,RO,Si Acum Ce Facem?,128,10
+Alt,Malcom Gladwell,USA,Talking to Strangers,500,10
+Humanitas,Bogdan,RO,Touch,100,10
+Trei,Bogdan,RO,Feel,101,10
+Humanitas,Bogdan,RO,Think,102,10
+Humanitas,Dale Carnagie,USA,Good Friends,220,9
+Humanitas,Malcom Gladwell,USA,Be,234,9
